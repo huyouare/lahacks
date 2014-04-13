@@ -289,3 +289,11 @@ sup{
 .opacity-50 {
   opacity: 0.5;
 }
+
+.images img{
+  opacity: 0.8;
+}
+
+.images img:hover{
+  opacity: 1;
+}
